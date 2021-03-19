@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\bin\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.exe
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\bin\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.deps.json
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\bin\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.runtimeconfig.json
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\bin\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.runtimeconfig.dev.json
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\bin\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.dll
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\bin\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.pdb
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\obj\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\obj\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\obj\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.AssemblyInfo.cs
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\obj\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.dll
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\obj\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.pdb
+C:\Users\user\source\repos\haticeEtogluVizeOdevi3\haticeEtogluVizeOdevi3\obj\Debug\netcoreapp3.1\haticeEtogluVizeOdevi3.genruntimeconfig.cache
